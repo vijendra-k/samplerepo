@@ -47,4 +47,14 @@ public class AppTest {
         double actual=1000000.0;
         assertEquals(expected,actual);
     }
+    
+    @Test
+    public void smallnegatives() {
+        double num1=-700000.0;
+        double num2=-800000.0;
+        App ob=new App();
+        double expected=ob.add(num1, num2);
+        double actual=-1500000.0;
+        assertEquals(expected,actual);
+    }
 }
