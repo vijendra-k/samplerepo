@@ -7,17 +7,4 @@ public class Newbranchclass {
 
 	}
 	
-	
-
-	
-	
-	
-	
-	System.out.println("just a method in the branch");
-	System.out.println("just a method in the branch");
-	System.out.println("just a method in the branch");
-	System.out.println("just a method in the branch");
-	System.out.println("just a method in the branch");
-	System.out.println("just a method in the branch");
-
 }
